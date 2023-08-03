@@ -1,0 +1,7 @@
+.idea/
+venv/
+terraform.*
+!terraform.tfvars
+.terraform/
+.terraform.*
+*.zip
